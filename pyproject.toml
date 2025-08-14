@@ -1,0 +1,19 @@
+
+[project]
+name = "mygeopy"
+version = "0.0.1a0"
+description = "python testing tutorial"
+license = "MIT"
+license-files = ["LICENSE.txt"]
+authors = [
+  { name = "Alexandre Georges", email = "aes.georges@gmail.com" }
+]
+maintainers = []
+# What Python versions are supported
+requires-python = ">3.10"
+dependencies = []
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = [
+  "setuptools",
+]

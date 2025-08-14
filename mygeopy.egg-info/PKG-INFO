@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: mygeopy
+Version: 0.0.1
+Summary: python testing tutorial
+Author-email: Alexandre Georges <aes.georges@gmail.com>
+License-Expression: MIT
+Requires-Python: >3.10
